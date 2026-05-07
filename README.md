@@ -1,5 +1,5 @@
 
-![Estudando AWS com o mestre](estudo_aws.png)
+![Estudando AWS com o mestre](images/estudo_aws.png)
 
 # Relatório de Implementação AWS
 
